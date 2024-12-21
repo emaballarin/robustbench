@@ -17,7 +17,7 @@ setuptools.setup(
         'torch>=1.7.1', 'torchvision>=0.8.2', 'torchdiffeq', 'geotorch',
         'requests>=2.25.0', 'numpy>=1.19.4', 'Jinja2>=3.1.2', 'tqdm>=4.56.1',
         'pandas>=1.3.5',
-        'timm>=0.9.0',
+        'timm>=1.0.9',
         'gdown>=5.1.0',
         'pyyaml',
     ],
