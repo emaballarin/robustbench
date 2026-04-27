@@ -1,4 +1,4 @@
-torch>=1.7.1
+torch>=2.11.0
 torchvision>=0.26.0
 torchdiffeq
 geotorch
