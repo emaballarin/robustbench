@@ -6,7 +6,7 @@ requests>=2.34.2
 numpy>=2.5.1
 Jinja2>=3.1.6
 timm>=1.0.28
-tqdm>=4.68.4
+tqdm>=4.69.0
 pandas>=3.0.3
 autoattack
 gdown>=6.1.0
