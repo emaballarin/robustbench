@@ -1,5 +1,5 @@
 torch>=2.14.1
-torchvision>=0.29.1
+torchvision>=0.29.2
 torchdiffeq
 geotorch
 requests>=2.34.2
